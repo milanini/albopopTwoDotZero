@@ -1,7 +1,7 @@
 ---
 title: Latina
 tags: []
-original: http://trasparenza.comune.latina.it/web/trasparenza/albo-pretorio
+original: http://trasparenza.comune.latina.it/web/albo/albo-pretorio;jsessionid=E57C2EC55C8D8E25AD8F1D0FD658E009
 rss: http://opendata.matteofortini.it/rssAlboPOP/alboPOPLatina.xml
 twitter: 
 facebook: 
